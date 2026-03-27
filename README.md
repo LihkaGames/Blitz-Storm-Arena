@@ -77,4 +77,4 @@
 
 <div align="center">
 
-## 📲 Quick Install Guide
+ 
